@@ -3,7 +3,7 @@ VenteFacile
 
 Application Android pour gérer facilement vos ventes, produits et factures.
 
-📱 À propos de l'application
+📱 À propos de l'application#
 VenteFacile est une solution mobile complète destinée aux commerçants et entrepreneurs qui souhaitent gérer leurs ventes quotidiennes. L'application permet de gérer l'inventaire des produits, créer des factures, suivre l'historique des ventes et visualiser les points de vente sur une carte.
 
 ✨ Fonctionnalités principales
