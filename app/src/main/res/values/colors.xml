@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette de couleurs principale -->
+    <color name="primary">#2196F3</color>           <!-- Bleu principal -->
+    <color name="primary_dark">#1976D2</color>      <!-- Bleu foncé pour la barre d'état -->
+    <color name="primary_light">#BBDEFB</color>     <!-- Bleu clair pour les surbrillances légères -->
+    <color name="accent">#FF9800</color>            <!-- Orange pour l'accentuation -->
+    <color name="accent_dark">#F57C00</color>       <!-- Orange foncé -->
+    
+    <!-- Couleurs sémantiques -->
+    <color name="success">#4CAF50</color>           <!-- Vert pour les succès -->
+    <color name="warning">#FFC107</color>           <!-- Jaune pour les avertissements -->
+    <color name="error">#F44336</color>             <!-- Rouge pour les erreurs -->
+    
+    <!-- Couleurs de texte -->
+    <color name="text_primary">#212121</color>      <!-- Gris foncé pour le texte principal -->
+    <color name="text_secondary">#757575</color>    <!-- Gris moyen pour le texte secondaire -->
+    <color name="text_hint">#BDBDBD</color>         <!-- Gris clair pour les indications -->
+    
+    <!-- Couleurs de fond -->
+    <color name="background">#F5F5F5</color>        <!-- Gris très clair pour le fond -->
+    <color name="background_card">#FFFFFF</color>   <!-- Blanc pour les cartes -->
+    
+    <!-- Couleurs du système Android -->
+    <color name="purple_500">#2196F3</color>        <!-- Remplacé par primary pour compatibilité -->
+    <color name="purple_700">#1976D2</color>        <!-- Remplacé par primary_dark pour compatibilité -->
+    <color name="teal_200">#FF9800</color>          <!-- Remplacé par accent pour compatibilité -->
+    <color name="teal_700">#F57C00</color>          <!-- Remplacé par accent_dark pour compatibilité -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

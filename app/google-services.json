@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "617364584110",
+    "firebase_url": "https://mobil-bc9d1-default-rtdb.firebaseio.com",
+    "project_id": "mobil-bc9d1",
+    "storage_bucket": "mobil-bc9d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617364584110:android:80506e9a6deb85d719df3f",
+        "android_client_info": {
+          "package_name": "com.example.projetandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqobHoB32j9Emz3g0Npvbwa4ibrVl8KhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
