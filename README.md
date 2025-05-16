@@ -1,5 +1,5 @@
 VenteFacile
-<td><img src="screenshots/login.jpeg" width="200"/></td> <td><img src="screenshots/dashboard.jpeg" width="200"/></td> <td><img src="screenshots/products.jpeg" width="200"/></td> 
+<tr><td><img src="screenshots/login.jpeg" width="200"/></td> <td><img src="screenshots/dashboard.jpeg" width="200"/></td> <td><img src="screenshots/products.jpeg" width="200"/></td> </tr>
 
 Application Android pour gérer facilement vos ventes, produits et factures.
 
