@@ -100,9 +100,6 @@ app/
 - [ ] Ajouter le support pour les paiements en ligne
 - [ ] Synchronisation hors ligne
 
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 ## 👤 Auteur
 
@@ -112,4 +109,3 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 ---
 
-⭐️ Si vous trouvez ce projet utile, n'hésitez pas à lui donner une étoile sur GitHub!
