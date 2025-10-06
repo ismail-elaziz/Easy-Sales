@@ -108,9 +108,10 @@ app/
 - LinkedIn: [Salaheddine Ait El Mahjoub](https://www.linkedin.com/in/salaheddine-ait-el-mahjoub/)
 
 **ISMAIL ELAZIZ **
-- GitHub: [@salaheddine-ait](https://github.com/ismail-elaziz)
-- LinkedIn: [Salaheddine Ait El Mahjoub](https://www.linkedin.com/in/ismailelaziz/)
+- GitHub: [@ismail-elaziz](https://github.com/ismail-elaziz)
+- LinkedIn: [ISMAIL EL AZIZ](https://www.linkedin.com/in/ismailelaziz/)
 
 ---
+
 
 
