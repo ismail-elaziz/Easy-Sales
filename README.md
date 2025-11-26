@@ -1,28 +1,28 @@
-# VenteFacile
+# Easy Sales
 
-Application Android pour gérer facilement vos ventes, produits et factures.
+Android application for easily managing your sales, products, and invoices.
 
-## 📱 À propos de l'application
+## 📱 About the Application
 
-VenteFacile est une solution mobile complète destinée aux commerçants et entrepreneurs qui souhaitent gérer leurs ventes quotidiennes. L'application permet de gérer l'inventaire des produits, créer des factures, suivre l'historique des ventes et visualiser les points de vente sur une carte.
+Easy Sales is a complete mobile solution for merchants and entrepreneurs who want to manage their daily sales. The application allows you to manage product inventory, create invoices, track sales history, and visualize sales locations on a map.
 
-## ✨ Fonctionnalités principales
+## ✨ Key Features
 
-- **Gestion des produits**: Ajout, modification et suppression de produits avec suivi des stocks
-- **Création de factures**: Interface intuitive pour créer des factures avec plusieurs produits
-- **Historique des ventes**: Visualisation et filtrage de l'historique des transactions
-- **Carte des ventes**: Visualisation géographique des points de vente avec OpenStreetMap
-- **Authentification**: Système de connexion et d'inscription sécurisé avec Firebase
-- **Enregistrement des données**: Stockage des données sur Firebase Realtime Database
+- **Product Management**: Add, edit, and delete products with inventory tracking
+- **Invoice Creation**: Intuitive interface for creating invoices with multiple products
+- **Sales History**: View and filter transaction history
+- **Sales Map**: Geographic visualization of sales locations with OpenStreetMap
+- **Authentication**: Secure login and registration system with Firebase
+- **Data Storage**: Data stored on Firebase Realtime Database
 
-## 📸 Captures d'écran
+## 📸 Screenshots
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Écran de connexion</b></td>
-      <td align="center"><b>Tableau de bord principal</b></td>
-      <td align="center"><b>Gestion des produits</b></td>
+      <td align="center"><b>Login Screen</b></td>
+      <td align="center"><b>Main Dashboard</b></td>
+      <td align="center"><b>Product Management</b></td>
     </tr>
     <tr>
       <td><img src="screenshots/login.jpeg" width="200"/></td>
@@ -30,9 +30,9 @@ VenteFacile est une solution mobile complète destinée aux commerçants et entr
       <td><img src="screenshots/products.jpeg" width="200"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Création de facture</b></td>
-      <td align="center"><b>Historique des ventes</b></td>
-      <td align="center"><b>Carte des ventes</b></td>
+      <td align="center"><b>Invoice Creation</b></td>
+      <td align="center"><b>Sales History</b></td>
+      <td align="center"><b>Sales Map</b></td>
     </tr>
     <tr>
       <td><img src="screenshots/invoice.jpeg" width="200"/></td>
@@ -42,39 +42,39 @@ VenteFacile est une solution mobile complète destinée aux commerçants et entr
   </table>
 </div>
 
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies Used
 
 - Java
 - Firebase (Authentication, Realtime Database)
-- OpenStreetMap pour la cartographie
+- OpenStreetMap for mapping
 - Material Design Components
-- ViewBinding pour l'interface utilisateur
+- ViewBinding for user interface
 
-## 📋 Prérequis
+## 📋 Prerequisites
 
 - Android Studio
-- Android SDK 21 ou supérieur
-- Compte Firebase
-- Connexion Internet pour l'utilisation complète des fonctionnalités
+- Android SDK 21 or higher
+- Firebase account
+- Internet connection for full functionality
 
 ## 🚀 Installation
 
-1. Clonez ce dépôt
+1. Clone this repository
 ```bash
-git clone https://github.com/salaheddine-ait/ventefacile.git
+git clone https://github.com/ismail-elaziz/Easy-Sales.git
 ```
 
-2. Ouvrez le projet dans Android Studio
+2. Open the project in Android Studio
 
-3. Connectez l'application à votre projet Firebase :
-   - Créez un projet dans la console Firebase
-   - Ajoutez une application Android avec le package `com.example.projetandroid`
-   - Téléchargez le fichier `google-services.json` et placez-le dans le dossier `app/`
-   - Synchronisez le projet avec Gradle
+3. Connect the application to your Firebase project:
+   - Create a project in Firebase console
+   - Add an Android app with the package `com.example.projetandroid`
+   - Download the `google-services.json` file and place it in the `app/` folder
+   - Sync the project with Gradle
 
-4. Exécutez l'application sur un émulateur ou un appareil physique
+4. Run the application on an emulator or physical device
 
-## 📊 Structure du projet
+## 📊 Project Structure
 
 ```
 app/
@@ -82,34 +82,30 @@ app/
 │   └── com/
 │       └── example/
 │           └── projetandroid/
-│               ├── adapters/    # Adaptateurs pour RecyclerViews
-│               ├── model/       # Classes de modèle de données (Product, Invoice, etc.)
-│               ├── view/        # Activités et fragments pour l'interface utilisateur
-│               └── utils/       # Classes utilitaires
+│               ├── adapters/    # Adapters for RecyclerViews
+│               ├── model/       # Data model classes (Product, Invoice, etc.)
+│               ├── view/        # Activities and fragments for user interface
+│               └── utils/       # Utility classes
 └── res/
-    ├── layout/                  # Fichiers de mise en page XML
-    ├── drawable/                # Images et icônes
-    ├── values/                  # Chaînes, dimensions, couleurs, styles
+    ├── layout/                  # XML layout files
+    ├── drawable/                # Images and icons
+    ├── values/                  # Strings, dimensions, colors, styles
     └── ...
 ```
 
 ## 📝 Todo
 
-- [ ] Ajouter des statistiques et des graphiques
-- [ ] Implémenter la génération de rapports PDF
-- [ ] Ajouter le support pour les paiements en ligne
-- [ ] Synchronisation hors ligne
+- [ ] Add statistics and charts
+- [ ] Implement PDF report generation
+- [ ] Add support for online payments
+- [ ] Offline synchronization
 
 
-## 👤 Auteur
+## 👤 Author
 
-**SALAHEDDINE AIT EL MAHJOUB**
-- GitHub: [@salaheddine-ait](https://github.com/salaheddine-ait)
-- LinkedIn: [Salaheddine Ait El Mahjoub](https://www.linkedin.com/in/salaheddine-ait-el-mahjoub/)
-
-**ISMAIL ELAZIZ **
+**ISMAIL ELAZIZ**
 - GitHub: [@ismail-elaziz](https://github.com/ismail-elaziz)
-- LinkedIn: [ISMAIL EL AZIZ](https://www.linkedin.com/in/ismailelaziz/)
+- LinkedIn: [Ismail El Aziz](https://www.linkedin.com/in/ismailelaziz/)
 
 ---
 
